@@ -1,7 +1,7 @@
 import pygame, random,  pygame.mixer, time
 from pygame.locals import *
 from scripts.player import Player, Shot
-from scripts.enemy import Enemy
+from .scripts.enemy import Enemy
 
 
 class Game():
